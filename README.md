@@ -1,3 +1,7 @@
+Angel's Delights
+
+This project is a toy HTML website showing different recipes
+
 During this project I demonstrated basic proficiency in html.
 
 I was able to create a boilerplate, link to html files, link to images, create paragraphs, and create lists.
