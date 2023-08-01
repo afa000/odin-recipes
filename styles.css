@@ -1,0 +1,29 @@
+.title {
+    text-align: center;
+    color: rgb(23, 82, 170);
+    font-family: "Times New Roman", serif;
+    font-weight: 800;
+
+}
+
+.holder-recipe {
+
+
+}
+
+.button-recipe {
+    background-color:rgb(23, 82, 170); 
+    display: block;
+    margin: 0 auto;
+
+}
+
+.link {
+    color: white;
+    font-family: "Times New Roman", serif;
+}
+
+#button-one {
+    background-color: rgb(123, 133, 190);
+    margin-bottom: 
+}
